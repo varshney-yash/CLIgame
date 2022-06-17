@@ -1,0 +1,10 @@
+"type": "module", //use ESM modules to use import/export syntax instead of commonJS require()
+
+shebang #! // do this while writing a command line script, tells OS to execute the code using nodejs version installed in system
+
+chalk-> color the output text in terminal
+chalk-animation-> builds on top of chalk to enable animations
+
+inquirer-> job is to 
+
+`` for template literals enabling multi line logs without manually including chars and also for interpolating values into text
